@@ -21,7 +21,6 @@ button img {
     object-fit: cover;
 }
 .result{
-    font-style: italic;
     font-size: 35px;
 }
 .moves{
@@ -37,6 +36,7 @@ button img {
 .result-count{
     font-size: 20px;
     color: #606060;
+    font-style: italic;
 }
 .reset{
     font-size: 20px;
