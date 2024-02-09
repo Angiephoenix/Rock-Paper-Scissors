@@ -1,4 +1,4 @@
-# ➡️ <a src="https://melodious-dasik-0d288a.netlify.app/">Rock-Paper-Scissors</a>
+# ➡️ <a href="https://melodious-dasik-0d288a.netlify.app/">Rock-Paper-Scissors</a>
 DOM Manipulation (JS Review)
 
 This is a simple implementation of the Rock-Paper-Scissors game. It allows you to play against the computer by selecting one of the three options: Rock, Paper, or Scissors.
